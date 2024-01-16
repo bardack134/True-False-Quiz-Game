@@ -1,3 +1,5 @@
+"""Have the data for a our game"""
+
 question_data = [
                     {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"The word &quot;Inception&quot; came from the 2010 blockbuster hit &quot;Inception&quot;.","correct_answer":"False","incorrect_answers":["True"]},
                     {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"Leonardo DiCaprio won an Oscar for Best Actor in 2004&#039;s &quot;The Aviator&quot;.","correct_answer":"False","incorrect_answers":["True"]},
